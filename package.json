@@ -35,17 +35,17 @@
     "ci": "coffee ranger.coffee"
   },
   "dependencies": {
-    "mocha": "~1.7.3",
+    "mocha": "2.0.1",
     "debug": "~0.7.2",
     "coffeelint": "~0.5.4",
-    "jshint": "~1.1.0"    
+    "jshint": "~1.1.0"
   },
   "devDependencies": {
     "chai": "~1.4.0",
     "sinon": "~1.5.2",
     "sinon-chai": "2.2.0",
     "coffee-script": "~1.4.0"
-  },  
+  },
   "readmeFilename": "README.md",
   "_id": "cordell@0.1.5",
   "_from": "cordell@"
